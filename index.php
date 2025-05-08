@@ -16,7 +16,7 @@ header('Content-Type: text/html; charset=UTF-8');
     <link rel="manifest" href="images/site.webmanifest">
 </head>
 <body>
-    <h1>Welcome to Live Nor Real Estate</h1>
+    
 
     <!-- iframe to load the provided URL -->
     <iframe src="https://manuel.livenorrealestatebrokers.com/index.php" width="100%" height="800px" style="border: none;"></iframe>
